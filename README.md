@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi
 
 ## 🔧 Languages I like
 <p>
