@@ -14,4 +14,5 @@
 
 ## 📊 GitHub Stats
 ![DarkLeon355's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkLeon355&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLeon355&layout=compact&theme=tokyonight)
 
