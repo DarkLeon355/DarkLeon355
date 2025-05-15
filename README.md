@@ -13,6 +13,6 @@
 ![PSoC](https://img.shields.io/badge/PSoC-00AEEF?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## 📊 GitHub Stats
-![DarkLeon355's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkLeon355&show_icons=true&theme=tokyonight)
+![DarkLeon355's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkLeon355&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLeon355&layout=compact&theme=tokyonight)
 
